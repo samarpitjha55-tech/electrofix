@@ -1,0 +1,12 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A basic project setup",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo "No tests specified for this project. Add your test commands here." && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
