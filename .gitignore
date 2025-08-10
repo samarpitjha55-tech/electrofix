@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+# Babel cache
+babel-cache/
+# Metro cache
+.expo/
+.expo-shared/
+.expo/web-build/
+.expo-packager-cache/
+.expo/packager-cache/
+.expo/metro-cache/
+# Build outputs
+dist/
+build/
+web-build/
+# OS files
+.DS_Store
+Thumbs.db
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Environment files
+.env
+.env.local
+.env.*.local
+# Firebase functions dependencies
+functions/node_modules/
+# Coverage reports
+coverage/
+# Test output
+jest/
+# Misc
+*.log
+*.tmp
+*.swp
